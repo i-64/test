@@ -2,3 +2,4 @@
 !/meetingRooms
 /meetingRooms/*
 !/meetingRooms/src
+!/meetingRooms/pom.xml
